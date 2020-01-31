@@ -3,9 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 
 import { AboutComponent } from './modules/general/about/about.component';
-
 import { HomeComponent } from './modules/general/home/home.component';
-
 import { NotFoundComponent } from './modules/general/not-found/not-found.component';
 
 

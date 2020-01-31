@@ -7,9 +7,9 @@ import { HomeComponent } from './modules/general/home/home.component';
 import { AboutComponent } from './modules/general/about/about.component';
 import { NotFoundComponent } from './modules/general/not-found/not-found.component';
 
-import { ServicesComponent } from './modules/application/services/services.component';
 import { ServicesModule } from './modules/application/services/services.module';
 import { AppRoutingModule } from './app-routing.module';
+
 
 @NgModule({
   declarations: [
@@ -17,7 +17,7 @@ import { AppRoutingModule } from './app-routing.module';
     HomeComponent,
     AboutComponent,
     NotFoundComponent,
-    ServicesComponent
+    
   ],
   imports: [
     BrowserModule,
