@@ -5,7 +5,6 @@ h1 {
  color: blue;
 }
 .app {
- font-family: Arial, Helvetica, sans-serif;
  max-width: 500px;
  margin: auto;
 }
@@ -14,10 +13,5 @@ li a {
 	font-weight: bolder;
 }
 li a:hover {
-	color: chartreuse;
-	background-color: yellow;
-}
-nav {
-	box-shadow: 10px 5px 5px 5px red;
-	border-radius: 10px;
+	color: white;
 }
