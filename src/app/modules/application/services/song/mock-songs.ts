@@ -3,7 +3,7 @@ export const SONGS: any[] =
     {
       year: '2018',
       items: [
-        { link: 'S6baf8BqKDI', top: '1', artist: 'Lartiste featuring Caroliina', title: 'Mafiosa' },
+        { link: 'CkLB40qq5xU', top: '1', artist: 'Lartiste featuring Caroliina', title: 'Mafiosa' },
         { link: 'kutk2XHEZNU', top: '2', artist: 'Vald', title: 'Désaccordé' },
         { link: 'iPGgnzc34tY', top: '3', artist: 'Aya Nakamura', title: 'Djadja' },
         { link: 'fC6YV65JJ6g', top: '4', artist: 'Maître Gims & Vianney', title: 'La Même' },
